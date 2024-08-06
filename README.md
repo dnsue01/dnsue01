@@ -11,4 +11,4 @@
 - **Frontend**: Angular, React
 - **Backend**: PHP, SQL, Java
 - **Mobile**: Android
-- **Others**: OpenCV, TypeScript
+- **Others**: TypeScript,C#
