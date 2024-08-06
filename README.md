@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Nsue Martinez (dnsue01)
 
-<!--
-**dnsue01/dnsue01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Full Stack Developer** | Specializing in Frontend with Angular & React  
+💻 Backend with PHP, SQL, Java & Android  
+🚀 Passionate about building scalable and robust applications  
+🎨 Focus on clean, user-friendly interfaces  
+💡 "Programmer 4 Fun"  
+🌟 Open to  continuous learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend**: Angular, React
+- **Backend**: PHP, SQL, Java
+- **Mobile**: Android
+- **Others**: OpenCV, TypeScript
