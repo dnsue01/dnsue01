@@ -3,9 +3,9 @@
 ## 👨‍💻 **Full Stack Developer** 
 
 ## 😎 Frontend
- -Angular
- -React 
- -TypeScript
+ - Angular
+ - React 
+ - TypeScript
  
 ## 💻 Backend 
 - PHP
