@@ -1,6 +1,6 @@
 # < ✌️ >, I'm Daniel Nsue Martinez </ ✌️> (dnsue01)
 
-## 👨‍💻 **Full Stack Developer** 
+# 👨‍💻 **Full Stack Developer** 
 
 ## 😎 Frontend
  - Angular
