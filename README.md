@@ -1,4 +1,4 @@
-# 👋 < H1 >, I'm Daniel Nsue Martinez </ H1 > (dnsue01)
+# < ✌️ >, I'm Daniel Nsue Martinez </ ✌️> (dnsue01)
 
 👨‍💻 **Full Stack Developer** | Specializing in Frontend with Angular & React  
 💻 Backend with PHP, SQL, Java & Android  
