@@ -1,14 +1,20 @@
 # < ✌️ >, I'm Daniel Nsue Martinez </ ✌️> (dnsue01)
 
-👨‍💻 **Full Stack Developer** | Specializing in Frontend with Angular & React  
-💻 Backend with PHP, SQL, Java & Android  
-🚀 Passionate about building scalable and robust applications  
-🎨 Focus on clean, user-friendly interfaces  
-💡 "Programmer 4 Fun"  
-🌟 Open to  continuous learning
+👨‍💻 **Full Stack Developer** 
 
-## 🔧 Technologies & Tools
-- **Frontend**: Angular, React
-- **Backend**: PHP, SQL, Java
-- **Mobile**: Android
-- **Others**: TypeScript,C#
+## 😎 Frontend
+ -Angular
+ -React 
+ -TypeScript
+ 
+##💻 Backend 
+- PHP
+- SQL
+- Java
+- Android
+- C#
+  
+### 🚀 Passionate about building scalable and robust applications  
+### 🎨 Focus on clean, user-friendly interfaces  
+### 💡 "Programmer 4 Fun"  
+### 🌟 Open to  continuous learning
