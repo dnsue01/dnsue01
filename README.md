@@ -1,18 +1,17 @@
-# Daniel Nsue Martínez
+# 👋 Hola, soy Daniel Nsue Martínez
 
-Soy desarrollador full stack. Diseño y desarrollo webs interactivas para artistas, marcas y creadores. También trabajo en infraestructura IT.
+Soy desarrollador full stack. Me gusta diseñar interfaces que invitan a explorar y llevarlas desde la primera idea hasta una web que funciona. Trabajo en proyectos para artistas, marcas y creadores, con especial interés por el diseño interactivo.
 
-[Ver mi portfolio](https://dnsue01.github.io/portfolio/)
+## 💻 Desarrollo web
 
-## Proyectos destacados
+En el frontend trabajo con JavaScript, TypeScript, React, Angular, HTML y CSS. También he desarrollado aplicaciones para Android con Java y he trabajado con PHP y SQL en el backend.
 
-| Proyecto | Qué encontrarás | Demo |
-| --- | --- | --- |
-| [El Club de la Corchea](https://github.com/dnsue01/clubdelacorchea) | Web del podcast de música urbana con episodios, presentación del equipo y contacto. | [Abrir proyecto](https://dnsue01.github.io/clubdelacorchea/) |
-| [Manuel Alayón](https://github.com/dnsue01/pepperPortfolio) | Portfolio interactivo de un social media manager, con una interfaz inspirada en iOS. | [Abrir proyecto](https://dnsue01.github.io/pepperPortfolio/) |
-| [Riverland · Dream Matcha Rotation](https://github.com/dnsue01/RiverlandMatcha) | Experiencia interactiva para crear una mesa virtual y elegir artistas del Riverland. | [Abrir proyecto](https://dnsue01.github.io/RiverlandMatcha/) |
-| [roomtrash6 · Based Nation](https://github.com/dnsue01/roomtrashDisobey) | Web de artista con un minijuego, fechas de gira, merchandising y música. | [Abrir proyecto](https://dnsue01.github.io/roomtrashDisobey/) |
-| [Los Xavales 00](https://github.com/dnsue01/Xavales00) | Web del dúo de reacciones de música urbana, con episodios, perfiles y contacto. | [Abrir proyecto](https://dnsue01.github.io/Xavales00/) |
-| [Tier Club](https://github.com/dnsue01/tierclubDiseno) | Concepto interactivo y wireframes de una tienda online de moda urbana. | [Abrir proyecto](https://dnsue01.github.io/tierclubDiseno/) |
+## 🎨 Diseño e interacción
 
-Trabajo con TypeScript, JavaScript, React, Angular, HTML y CSS. También he desarrollado aplicaciones con Java, PHP y SQL.
+Me interesa cómo la tipografía, el movimiento y la navegación pueden darle carácter a una web. Disfruto construyendo esas interacciones y ajustándolas para que se entiendan tanto en móvil como en escritorio.
+
+## 🛠️ Infraestructura IT
+
+Mi trabajo también abarca infraestructura IT. Me interesa el recorrido completo de una aplicación, desde escribir el código hasta desplegarla, diagnosticar problemas y mantenerla en marcha.
+
+🌐 [Portfolio](https://dnsue01.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-nsue-martinez/)
